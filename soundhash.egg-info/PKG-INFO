@@ -1,0 +1,40 @@
+Metadata-Version: 1.0
+Name: soundhash
+Version: 0.2
+Summary: let your hashes sing!
+Home-page: https://gist.github.com/EmileSonneveld/7e7053068fd481729b91
+Author: Emile Sonneveld
+Author-email: emile.jnm@gmail.com
+License: UNKNOWN
+Description: SOUND HASHES MOTHEFUCKER!
+        =========================
+        
+        c6951a1048d39d28610d491cb10f2b12d4169c02
+        
+        Ever found those long hashes difficult to recognize? Sure you do!
+        Luckily, sound_hash can generate sound from them so you can listen to them.
+        
+        
+        
+        
+        
+        linux ways to make noise from command line:
+        
+        cat sound.txt | aplay
+        cat sound.txt >> /dev/dsp
+        
+        crossplatform python: http://www.speech.kth.se/snack/
+        
+        
+        each byte should generate a kind of sinus wave
+        Maby I could cut the byte in 2 or 3: *frequency *amplitude *offset
+        
+        Totally awesomeness will emerge I suppose
+        
+        
+        
+        
+        
+        https://gist.github.com/EmileSonneveld/7e7053068fd481729b91
+        
+Platform: UNKNOWN

@@ -1,0 +1,8 @@
+README.rst
+setup.py
+soundhash/__init__.py
+soundhash/sound_hash.py
+soundhash.egg-info/PKG-INFO
+soundhash.egg-info/SOURCES.txt
+soundhash.egg-info/dependency_links.txt
+soundhash.egg-info/top_level.txt
